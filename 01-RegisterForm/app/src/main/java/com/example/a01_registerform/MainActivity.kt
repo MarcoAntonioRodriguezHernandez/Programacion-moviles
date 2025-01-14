@@ -55,6 +55,8 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
             )
             Text(text = "Nombre")
             OutlinedTextField(value = "", onValueChange = {})
+            Text(text = "Email")
+            OutlinedTextField(value = "", onValueChange = {})
             Text(text = "Contraseña")
             OutlinedTextField(value = "", onValueChange = {})
             Button(onClick = { /*TODO*/ }) {
