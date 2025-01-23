@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">13-ProductSearch</string>
+    <string-array name="Category_array">
+        <item>Electrónica</item>
+        <item>Ropa</item>
+        <item>Hogar</item>
+    </string-array>
+</resources>
